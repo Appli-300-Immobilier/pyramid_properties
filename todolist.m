@@ -4,7 +4,7 @@
 - **Company Name:** PYRAMID PROPERTIES
 - **Directory:** pyramid_properties
 - **Address/Contact:** 
-  - "Page � Entreprise de gestion de patrimoine
+  - "Page é Entreprise de gestion de patrimoine
   - 
   - 1159 Liberty Blvd Akwa , Douala, Cameroon
   - 
